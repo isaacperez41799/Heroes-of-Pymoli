@@ -1,5 +1,4 @@
 # Heroes-of-Pymoli
-# Unit 4 | Assignment - Pandas, Pandas, Pandas
 
 ## Background
 
